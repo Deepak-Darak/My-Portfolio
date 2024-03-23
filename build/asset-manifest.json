@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.57fda2c0.css",
+    "main.js": "/static/js/main.9f23e7aa.js",
+    "static/media/feedIndia.jpg": "/static/media/feedIndia.899f8d2a8b18265136dd.jpg",
+    "static/media/spotify.jpg": "/static/media/spotify.63eb6f38050d29583c4d.jpg",
+    "static/media/chitchat.jpg": "/static/media/chitchat.1f363a1a4fbe0a46d3e9.jpg",
+    "static/media/avatar-2.svg": "/static/media/avatar-2.dbaf15ff9b5d68a39d1b24521fb12640.svg",
+    "static/media/avatar-1.svg": "/static/media/avatar-1.e18c937d0a33154687422e5da407f480.svg",
+    "static/media/dots-bg.svg": "/static/media/dots-bg.aa8289c51cd678b8cd47.svg",
+    "index.html": "/index.html",
+    "main.57fda2c0.css.map": "/static/css/main.57fda2c0.css.map",
+    "main.9f23e7aa.js.map": "/static/js/main.9f23e7aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57fda2c0.css",
+    "static/js/main.9f23e7aa.js"
+  ]
+}
